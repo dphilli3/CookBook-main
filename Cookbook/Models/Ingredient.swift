@@ -2,7 +2,7 @@
 //  Ingredient.swift
 //  CookBook
 //
-//  Created by Andy Wu on 2/15/23.
+//  Created by Dakota Phillips on 9/23/24.
 //
 
 import Foundation

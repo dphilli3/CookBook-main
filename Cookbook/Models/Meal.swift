@@ -2,7 +2,7 @@
 //  Meal.swift
 //  CookBook
 //
-//  Created by Andy Wu on 2/14/23.
+//  Created by Dakota Phillips on 9/23/24.
 //
 
 import Foundation
